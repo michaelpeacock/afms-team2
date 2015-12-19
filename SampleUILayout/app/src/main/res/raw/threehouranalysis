@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>WPC Alaska Surface Analyses</name>
+<Snippet>Transparent Background</Snippet>
+
+<Camera id="ID">
+ <latitude>65</latitude>
+ <longitude>-160</longitude>
+ <altitude>10000000</altitude>
+</Camera>
+
+<GroundOverlay>
+<name>Latest Surface Analysis</name>
+<visibility>1</visibility>
+<drawOrder>1</drawOrder>
+<Icon>
+<href>http://www.wpc.ncep.noaa.gov/alaska/kml/aksfc_trans_latest.png</href>
+</Icon>
+<LatLonBox>
+<north>87.19</north>
+<south>31.10</south>
+<east>-122.63</east>
+<west>-197.42</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay>
+
+
+<GroundOverlay>
+<name>00Z Surface Analysis</name>
+<visibility>0</visibility>
+<drawOrder>1</drawOrder>
+<Icon>
+<href>http://www.wpc.ncep.noaa.gov/alaska/kml/aksfc00_trans.png</href>
+</Icon>
+<LatLonBox>
+<north>87.19</north>
+<south>31.10</south>
+<east>-122.63</east>
+<west>-197.42</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay>
+<name>03Z Surface Analysis</name>
+<visibility>0</visibility>
+<drawOrder>1</drawOrder>
+<Icon>
+<href>http://www.wpc.ncep.noaa.gov/alaska/kml/aksfc03_trans.png</href>
+</Icon>
+<LatLonBox>
+<north>87.19</north>
+<south>31.10</south>
+<east>-122.63</east>
+<west>-197.42</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay>
+<name>06Z Surface Analysis</name>
+<visibility>0</visibility>
+<drawOrder>1</drawOrder>
+<Icon>
+<href>http://www.wpc.ncep.noaa.gov/alaska/kml/aksfc06_trans.png</href>
+</Icon>
+<LatLonBox>
+<north>87.19</north>
+<south>31.10</south>
+<east>-122.63</east>
+<west>-197.42</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay>
+<name>09Z Surface Analysis</name>
+<visibility>0</visibility>
+<drawOrder>1</drawOrder>
+<Icon>
+<href>http://www.wpc.ncep.noaa.gov/alaska/kml/aksfc09_trans.png</href>
+</Icon>
+<LatLonBox>
+<north>87.19</north>
+<south>31.10</south>
+<east>-122.63</east>
+<west>-197.42</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay>
+<name>12Z Surface Analysis</name>
+<visibility>0</visibility>
+<drawOrder>1</drawOrder>
+<Icon>
+<href>http://www.wpc.ncep.noaa.gov/alaska/kml/aksfc12_trans.png</href>
+</Icon>
+<LatLonBox>
+<north>87.19</north>
+<south>31.10</south>
+<east>-122.63</east>
+<west>-197.42</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay>
+<name>15Z Surface Analysis</name>
+<visibility>0</visibility>
+<drawOrder>1</drawOrder>
+<Icon>
+<href>http://www.wpc.ncep.noaa.gov/alaska/kml/aksfc15_trans.png</href>
+</Icon>
+<LatLonBox>
+<north>87.19</north>
+<south>31.10</south>
+<east>-122.63</east>
+<west>-197.42</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay>
+<name>18Z Surface Analysis</name>
+<visibility>0</visibility>
+<drawOrder>1</drawOrder>
+<Icon>
+<href>http://www.wpc.ncep.noaa.gov/alaska/kml/aksfc18_trans.png</href>
+</Icon>
+<LatLonBox>
+<north>87.19</north>
+<south>31.10</south>
+<east>-122.63</east>
+<west>-197.42</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay>
+
+<GroundOverlay>
+<name>21Z Surface Analysis</name>
+<visibility>0</visibility>
+<drawOrder>1</drawOrder>
+<Icon>
+<href>http://www.wpc.ncep.noaa.gov/alaska/kml/aksfc21_trans.png</href>
+</Icon>
+<LatLonBox>
+<north>87.19</north>
+<south>31.10</south>
+<east>-122.63</east>
+<west>-197.42</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay>
+
+
+</Document>
+
+</kml>

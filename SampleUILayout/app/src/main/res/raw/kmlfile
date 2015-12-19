@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>Cities</name>
+        <visibility>1</visibility>
+
+         <Placemark>
+                    <name>Anchorage</name>
+                               <description>Temperature 24,Humidity 75</description>
+                    <Style id="cityStyle">
+                        <IconStyle>
+                            <scale>1.0</scale>
+                            <heading>0.0</heading>
+                            <Icon>
+                                <href>http://localhost:9999/example/images/cityicon.png</href>
+                                <refreshInterval>0.0</refreshInterval>
+                                <viewRefreshTime>0.0</viewRefreshTime>
+                                <viewBoundScale>0.0</viewBoundScale>
+                            </Icon>
+                        </IconStyle>
+                    </Style>
+                    <Point>
+                        <coordinates>-149.85, 61.22</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Barrow</name>
+                               <description>Temperature 5.5,Humidity 91</description>
+                    <Style id="cityStyle">
+                        <IconStyle>
+                            <scale>1.0</scale>
+                            <heading>0.0</heading>
+                            <Icon>
+                                <href>http://localhost:9999/example/images/cityicon.png</href>
+                                <refreshInterval>0.0</refreshInterval>
+                                <viewRefreshTime>0.0</viewRefreshTime>
+                                <viewBoundScale>0.0</viewBoundScale>
+                            </Icon>
+                        </IconStyle>
+                    </Style>
+                    <Point>
+                        <coordinates>-156.78, 71.29</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Fairbanks</name>
+                                <description>Temperature 1.2,Humidity 87</description>
+                    <Style id="cityStyle">
+                        <IconStyle>
+                            <scale>1.0</scale>
+                            <heading>0.0</heading>
+                            <Icon>
+                                <href>http://localhost:9999/example/images/cityicon.png</href>
+                                <refreshInterval>0.0</refreshInterval>
+                                <viewRefreshTime>0.0</viewRefreshTime>
+                                <viewBoundScale>0.0</viewBoundScale>
+                            </Icon>
+                        </IconStyle>
+                    </Style>
+                    <Point>
+                        <coordinates>-147.70, 64.81</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Kodiak</name>
+                                <description>Temperature 36.9,Humidity 90</description>
+                    <Style id="cityStyle">
+                        <IconStyle>
+                            <scale>1.0</scale>
+                            <heading>0.0</heading>
+                            <Icon>
+                                <href>http://localhost:9999/example/images/cityicon.png</href>
+                                <refreshInterval>0.0</refreshInterval>
+                                <viewRefreshTime>0.0</viewRefreshTime>
+                                <viewBoundScale>0.0</viewBoundScale>
+                            </Icon>
+                        </IconStyle>
+                    </Style>
+                    <Point>
+                        <coordinates>-152.38, 57.80</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Juneau</name>
+                                <description>Temperature 29.8,Humidity 96</description>
+                    <Style id="cityStyle">
+                        <IconStyle>
+                            <scale>1.0</scale>
+                            <heading>0.0</heading>
+                            <Icon>
+                                <href>http://localhost:9999/example/images/cityicon.png</href>
+                                <refreshInterval>0.0</refreshInterval>
+                                <viewRefreshTime>0.0</viewRefreshTime>
+                                <viewBoundScale>0.0</viewBoundScale>
+                            </Icon>
+                        </IconStyle>
+                    </Style>
+                    <Point>
+                        <coordinates>-134.59, 58.38</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Nome</name>
+                                <description>Temperature 20,Humidity 77</description>
+                    <Style id="cityStyle">
+                        <IconStyle>
+                            <scale>1.0</scale>
+                            <heading>0.0</heading>
+                            <Icon>
+                                <href>http://localhost:9999/example/images/cityicon.png</href>
+                                <refreshInterval>0.0</refreshInterval>
+                                <viewRefreshTime>0.0</viewRefreshTime>
+                                <viewBoundScale>0.0</viewBoundScale>
+                            </Icon>
+                        </IconStyle>
+                    </Style>
+                    <Point>
+                        <coordinates>-165.4,54.51</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>Skagway</name>
+                               <description>Temperature 31,Humidity 82</description>
+                    <Style id="cityStyle">
+                        <IconStyle>
+                            <scale>1.0</scale>
+                            <heading>0.0</heading>
+                            <Icon>
+                                <href>http://localhost:9999/example/images/cityicon.png</href>
+                                <refreshInterval>0.0</refreshInterval>
+                                <viewRefreshTime>0.0</viewRefreshTime>
+                                <viewBoundScale>0.0</viewBoundScale>
+                            </Icon>
+                        </IconStyle>
+                    </Style>
+                    <Point>
+                        <coordinates>-135.32,59.46</coordinates>
+                    </Point>
+                </Placemark>
+    </Document>
+</kml>

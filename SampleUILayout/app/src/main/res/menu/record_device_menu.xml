@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:layout_width="wrap_content"
+        android:id="@+id/popManual"
+        android:title="Manual"/>
+
+    <item
+        android:layout_width="wrap_content"
+        android:id="@+id/popDevice"
+        android:title="Device"/>
+</menu>
